@@ -1,0 +1,10 @@
+baseURL = "https://avhoag.xyz/"
+languageCode = "en-us"
+title = "avhoag.xyz"
+
+[menu]
+    [[menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
+        weight = 10
