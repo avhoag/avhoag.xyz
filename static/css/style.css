@@ -3,8 +3,7 @@ body {
   font-size: 150%;
   max-width: 70rem;
   padding: 1rem;
-  margin-left: 5rem;
-  margin-right: 5rem;
+  margin: auto;
 }
 
 
@@ -20,7 +19,6 @@ body {
 
 .site-nav { 
   display: flex;
-  right: 0;
   margin-left: auto;
 }
 
