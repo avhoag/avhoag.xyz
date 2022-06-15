@@ -1,4 +1,4 @@
-Here are some of my skills, what can I help you with?
+Here are some of my skills. What can I help you with?
 {{< columns >}}
 ## IT Infrastructure
 - Networking
@@ -19,4 +19,4 @@ Here are some of my skills, what can I help you with?
 - Javascript
 {{< /columns >}}
 
-email: [aaron@vhoag.xyz](mailto:aaron@vhoag.xyz)
+Email: [aaron@vhoag.xyz](mailto:aaron@vhoag.xyz)

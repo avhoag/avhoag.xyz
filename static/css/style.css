@@ -1,9 +1,24 @@
+:root {
+	--color-bg: #3c4057;
+        --color-fg: #C2BEA8;
+        --color-link: #739A6D;
+}
+
 body {
-  font-family: Times, Mono, Serif;
+  font-family: monospace;
   font-size: 150%;
   max-width: 70rem;
   padding: 1rem;
   margin: auto;
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+}
+
+a {
+  color: var(--color-link);
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
 }
 
 
@@ -27,12 +42,6 @@ body {
 .site-nav { 
   display: flex;
   margin-left: auto;
-}
-
-a {
-  margin: 0;
-  padding: 0;
-  text-decoration: none;
 }
 
 .main-menu {
@@ -60,4 +69,3 @@ a {
     text-decoration: none;
   }
 }
-
