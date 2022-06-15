@@ -1,8 +1,8 @@
 <header class="site-header">
+  <a href="{{ .Site.BaseURL }}" class="logo">
+    {{ .Site.Title }}
+  </a>
   <nav class="site-nav">
-    <a href="{{ .Site.BaseURL }}">
-      {{ .Site.Title }}
-    </a>
     <ul class="main-menu">
       {{ range.Site.Menus.main }}
       <li>
@@ -15,3 +15,4 @@
     </ul>
   </nav>
 </header>
+<hr>
