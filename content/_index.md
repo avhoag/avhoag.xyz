@@ -4,20 +4,22 @@ I'm Aaron. I have been working in the IT field since 2013. Currently I work as a
 
 I do freelance IT work In my spare time. Below are some things I'm familiar with.
 
+{{< columns >}}
 #### IT Infrastructure
 - Networking
 - IP Camera Systems
 - Endpoint Management 
-- Microsoft Windows (Desktop & Server)
+- Microsoft Windows
 - Linux
 - Virtualization
-- Configuring and Deploying Servers
+- Server Deployment
 - Ansible
 - Docker
-
+<--->
 #### Programming
 - Python
 - SQL
 - HTML
 - CSS
 - Javascript
+{{< /columns >}}
