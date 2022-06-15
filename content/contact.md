@@ -1,7 +1,8 @@
 Here are some of my skills. What can I help you with?
 {{< columns >}}
-## IT Infrastructure
+## Infrastructure
 - Networking
+- Structured Cabling
 - IP Camera Systems
 - Endpoint Management 
 - Microsoft Windows
