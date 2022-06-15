@@ -1,6 +1,6 @@
 Here are some of my skills. What can I help you with?
 {{< columns >}}
-## Infrastructure
+### Infrastructure
 - Networking
 - Structured Cabling
 - IP Camera Systems
@@ -12,7 +12,7 @@ Here are some of my skills. What can I help you with?
 - Ansible
 - Docker
 <--->
-## Programming
+### Programming
 - Python
 - SQL
 - HTML
